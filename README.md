@@ -1,6 +1,6 @@
 # react-chrome-extension-manifest-v3
 ## Manifest v3 Chrome Extension
-### Boilerplate for building extension apps with React
+### Stater kit for building Extensions with React (CRA)
 
 
-Still, kinda, useful: https://github.com/jessekorzan/react-chrome-extension
+Instructions (old): https://github.com/jessekorzan/react-chrome-extension
