@@ -1,0 +1,6 @@
+#jk--chrome--extension {
+    position: fixed;
+    z-index: 2147483647;
+}
+
+body.jk--chrome--extension--wrapper {}
