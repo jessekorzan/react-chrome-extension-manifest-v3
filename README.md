@@ -30,5 +30,5 @@ chrome://extensions/
 ```
 Turn on Developer Mode and `load unpacked` (good thing we remembered that zip file)  
 
-Go test your thing ... remember to re-build and upload every.single.time. you edit your react code.  And refresh your tab.
+Go test your thing ... remember to re-`npm build` and re-`load unpacked` every.single.time. you edit your react code.  And refresh your tab.
 
